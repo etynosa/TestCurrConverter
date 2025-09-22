@@ -1,0 +1,6 @@
+@TestCurrConverter_HostAddress = http://localhost:5199
+
+GET {{TestCurrConverter_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
